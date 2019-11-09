@@ -1,2 +1,2 @@
 # WorteX
-Atom-plugin for checking grammar and spelling in LaTeX documents using Microsoft Word
+~~Atom-plugin~~ VS Code-extension for checking grammar and spelling in LaTeX documents using Microsoft Word
